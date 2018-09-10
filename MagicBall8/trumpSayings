@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "I am a really smart guy."
 !smart:3
 !sarcastic:3
@@ -58,4 +59,66 @@
 !boycott:5
 !we:1
 !should:1
+=======
+"I am a really smart guy."
+!smart:3
+!sarcastic:3
+!sarcasm:3
+!man:2
+---
+"I'm intelligent. Some people would say I'm very, very, very intelligent."
+!smart:3
+!very:2
+!stupid:3
+!people:2
+---
+“I know what sells and I know what people want.” 
+!sale:4
+!sell:4
+!want:2
+!know:1
+---
+"The only guys I want counting my money are short guys that wear yarmulkes all day.” 
+!count:3
+!short:4
+!guys:3
+!stupid:3
+---
+“I don’t have a racist bone in my body.”
+!bone:3
+!lie:4
+!racist:4
+!body:2
+---
+“I will be so good to women.” 
+!so:1
+!women:4
+!good:3
+!lie:3
+---
+"I’m going to be able to do things for women that no other candidate would be able to do."
+!women:4
+!candidate:2
+!do:1
+!able:3
+---
+“I have a great relationship with the blacks. I’ve always had a great relationship with the blacks.”
+!great:4
+!blacks:4
+!relationship:3
+!always:2
+---
+“I’m the worst thing that’s ever happened to ISIS.”
+!isis:5
+!worst:3
+!happen:4
+!ever:2
+---
+"Maybe we should boycott Starbucks."
+!starbucks:6
+!coffee:4
+!boycott:5
+!we:1
+!should:1
+>>>>>>> refs/remotes/akainocode/master
 ---
